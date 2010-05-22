@@ -1,0 +1,31 @@
+---
+de:
+  edit_paypal_info: "Paypal-Express-Zahlung bearbeiten"
+  paypal_payment: "Paypal-Express-Zahlung"
+  paypal_txn_id: "Transaktionscode"
+  paypal_capture_complete: "Paypal-Transaktion wurde erfaßt."
+  unable_to_capture_paypal: "Erfassung der Paypal-Transaktion nicht möglich."
+  signature: "Signatur"
+  login: "Benutzername"
+  order_not_yet_placed: "Ihre Bestellung wurde <strong>nicht</strong> platziert, bitte prüfen Sie die Angaben und klicken Sie auf Bestätigen unten, um die Bestellung abzuschließen."
+  paypal_payment_id: "Paypal Payment ID"
+  pending_reason: "Ursache in der Schwebe"
+  result: "Ergebnis"
+  review: "Überprüfen"
+  no_shipping: "Kein Versand"
+  paypal_account: "Paypal-Konto"
+  payer_id: "Payer ID"
+  payer_country: "Land"
+  payer_status: "Status"
+  comment: "Kommentar"
+  account_details: "Kontodetails"
+  finalize:
+    paypalexpress: "Zahlung erfassen"
+  activerecord:
+     attributes:
+       paypal_payment:
+         amount: "Betrag"
+     models:
+       paypal_payment:
+         one: "Paypal-Zahlung"
+         other: "Paypal-Zahlungen"
